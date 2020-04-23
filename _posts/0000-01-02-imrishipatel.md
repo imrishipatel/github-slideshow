@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ok, so basically I am under self-isolation. 
 Use the left arrow to go back!
